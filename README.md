@@ -370,10 +370,9 @@ Figma
 </html>
 ```
 # OUTPUT:
-
-(<Screenshot 2025-10-04 141658.png>)
-(<Screenshot 2025-10-04 143538.png>)
-(<Screenshot 2025-10-04 181921.png>)
-(<Screenshot 2025-10-04 205857.png>)
+![alt text](<Screenshot 2025-10-04 141658.png>)
+![alt text](<Screenshot 2025-10-04 143538.png>)
+![alt text](<Screenshot 2025-10-04 181921.png>)
+![alt text](<Screenshot 2025-10-04 205857.png>)
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
